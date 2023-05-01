@@ -1,9 +1,9 @@
 <div align="center">
     
 </div> 
-<picture style="border-radius: 20px;">
-  <source media="(min-width:650px)" srcset="https://github.com/Ezedcode/6.images/blob/main/welcome.png">
-  <img src="https://github.com/Ezedecode/6.images/blob/main/wolcoEzedcodemeMobile.png" alt="welcome" style="width:auto;">
+<picture >
+  <source style="border-radius: 20px" media="(min-width:650px)" srcset="https://github.com/Ezedcode/6.images/blob/main/welcome.png">
+  <img style="border-radius: 20px" src="https://github.com/Ezedecode/6.images/blob/main/wolcoEzedcodemeMobile.png" alt="welcome" style="width:auto;">
 </picture><br>
 
 ##

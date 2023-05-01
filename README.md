@@ -2,8 +2,8 @@
     
 </div> 
 <picture>
-  <source media="(min-width:650px)" srcset="https://github.com/Ezedelio14/6.images/blob/main/welcome.png">
-  <img src="https://github.com/Ezedelio14/6.images/blob/main/wolcomeMobile.png" alt="welcome" style="width:auto;">
+  <source media="(min-width:650px)" srcset="https://github.com/Ezedcode/6.images/blob/main/welcome.png">
+  <img src="https://github.com/Ezedecode/6.images/blob/main/wolcoEzedcodemeMobile.png" alt="welcome" style="width:auto;">
 </picture><br>
 
 ##
